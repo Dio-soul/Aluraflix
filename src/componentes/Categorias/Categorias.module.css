@@ -1,0 +1,30 @@
+.ul, li{
+    list-style-type: none;
+}
+
+.acoes{
+    display: flex;
+    justify-content: space-around;
+}
+
+.container{
+    background-color: var(--preto);
+    border-radius: 5px 5px 20px 20px;
+    width: 15em;
+    height: 50px;
+}
+
+.img{
+    width: 30px;
+    height: 30px;
+}
+
+.lista{
+    display: flex;
+    padding: 20px;
+    gap: 40px;
+}
+
+.secao{
+    padding: 20px;
+}
